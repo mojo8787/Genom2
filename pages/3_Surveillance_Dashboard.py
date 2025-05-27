@@ -414,16 +414,16 @@ with tabs[2]:
 
 # Add information about implementation and host lab integration
 st.markdown("""
-## Implementation and Integration with Host Lab Infrastructure
+## Implementation and Deployment
 
-This surveillance dashboard demonstrates how the proposed project would integrate with Prof. Papp's lab infrastructure:
+This surveillance dashboard demonstrates advanced computational approaches for antimicrobial resistance monitoring:
 
-1. **Phylogenetic Pipeline:** Uses the same TreeTime workflow from the lab's recent Cell paper on *Acinetobacter baumannii*
+1. **Phylogenetic Pipeline:** Uses efficient TreeTime workflows for real-time phylogenetic analysis
 2. **Hospital Deployment:** Can be packaged as a Docker container for air-gapped deployment in hospital settings
-3. **Computational Resources:** Optimized for the lab's HPC cluster and GPU nodes
-4. **Data Pipeline:** Integrates with the lab's existing genomic data processing pipelines
+3. **Computational Resources:** Optimized for HPC clusters and GPU acceleration
+4. **Data Pipeline:** Integrates with standard genomic data processing workflows
 
-The dashboard showcases how the proposed EMBO fellowship project would build upon and extend the host lab's expertise in antimicrobial resistance genomics and evolutionary systems biology.
+The dashboard showcases advanced computational methods for antimicrobial resistance genomics and evolutionary systems biology.
 """)
 
 # Footer

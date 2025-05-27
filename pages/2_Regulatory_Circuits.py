@@ -399,15 +399,15 @@ with tabs[2]:
 
 # Add information about integration with computational infrastructure
 st.markdown("""
-## Integration with Host Lab's Computational Infrastructure
+## Computational Infrastructure and Methodology
 
-The multimodal variational autoencoder demonstrated here builds on the host lab's expertise in:
+The multimodal variational autoencoder demonstrated here utilizes advanced computational approaches:
 
-1. **Evolutionary systems biology** - Leveraging Prof. Papp's work on metabolic network evolution
-2. **Statistical genetics methodology** - Utilizing the lab's advanced mixed-model approaches
-3. **GPU-accelerated computing** - Optimized for the lab's HPC cluster
+1. **Evolutionary systems biology** - Applying network evolution principles to regulatory circuits
+2. **Statistical genetics methodology** - Advanced mixed-model approaches for genomic analysis
+3. **GPU-accelerated computing** - Optimized for high-performance computing environments
 
-The regulatory models shown here would complement the host lab's work on antimicrobial resistance evolution across ESKAPE pathogens, as published in Nature Microbiology.
+The regulatory models shown here advance antimicrobial resistance research across ESKAPE pathogens through computational innovation.
 """)
 
 # Footer

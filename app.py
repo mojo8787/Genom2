@@ -28,7 +28,7 @@ methicillin-resistant *Staphylococcus aureus* (MRSA) biofilm formation. The proj
 3. **Deploy real-time surveillance** & therapeutic-prioritisation
 4. **Analyze RNA dynamics** & design RNA-based interventions
 
-*Developed for Prof. Balázs Papp's Metabolic Systems Biology Research Group at HUN-REN BRC*
+*An advanced genomic surveillance system for antimicrobial resistance research*
 """)
 
 # Create two columns for the dashboard overview
@@ -104,8 +104,7 @@ that would be employed during the fellowship.
 st.markdown("""
 ## 🆕 RNA Dynamics Module
 
-The new RNA Dynamics module is designed to align with the research interests of Prof. Ewelina Malecka-Grajek, 
-focusing on bacterial RNA degradation and gene expression manipulation tools.
+The new RNA Dynamics module focuses on bacterial RNA degradation and gene expression manipulation tools.
 
 ### Key Features:
 - Analysis of how MGEs influence RNA stability in biofilm vs. planktonic states
@@ -178,5 +177,5 @@ st.markdown("---")
 st.markdown("""
 **Dashboard Author**: Dr. Almotasem Bellah Younis, PhD | [Website](https://almotasem-younis.netlify.app)  
 **Proposal**: Mechanistic AI: Decoding Mobile Genetic Elements as Master Regulators of MRSA Biofilms for Precision Therapy  
-**Target Host Lab**: Prof. Balázs Papp's Group at HUN-REN BRC, Szeged with RNA dynamics extension for Prof. Ewelina Malecka-Grajek
+**Research Focus**: Advanced genomic surveillance and therapeutic intervention strategies for antimicrobial resistance
 """)

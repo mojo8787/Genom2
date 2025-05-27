@@ -301,15 +301,15 @@ with tabs[2]:
 
 # Add information about model deployment and integration
 st.markdown("""
-## Model Integration with Host Lab's Infrastructure
+## Model Integration and Deployment
 
-This machine learning pipeline is designed to integrate with Prof. Papp's lab infrastructure:
+This machine learning pipeline is designed for high-performance computing environments:
 
-1. Models are compatible with the lab's HPC cluster GPU nodes
-2. GWAS analysis uses the same TreeTime workflow optimized in the lab
-3. Feature importance analysis aligns with the lab's recent work on *Acinetobacter baumannii*
+1. Models are optimized for GPU acceleration and parallel processing
+2. GWAS analysis uses efficient phylogenetic workflows
+3. Feature importance analysis provides insights for therapeutic targeting
 
-The statistical-genetics methodology demonstrated here complements the host lab's expertise in genomic epidemiology and antimicrobial resistance analysis.
+The statistical-genetics methodology demonstrated here advances genomic epidemiology and antimicrobial resistance analysis.
 """)
 
 # Footer
