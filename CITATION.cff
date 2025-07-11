@@ -24,7 +24,7 @@ keywords:
   - "therapeutic intervention"
   - "computational biology"
   - "streamlit"
-license: "MIT"  # Replace with actual license if different
+license: "Apache-2.0"
 preferred-citation:
   type: software
   title: "MRSA Biofilm Surveillance Dashboard: AI-Driven Genomic Surveillance and Mechanistic Inference"
