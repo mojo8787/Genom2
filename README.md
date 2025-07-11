@@ -1,6 +1,6 @@
 # 🧬 MRSA Biofilm Surveillance Dashboard
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15863612.svg)](https://doi.org/10.5281/zenodo.15863612)
 
 An AI-driven genomic surveillance and mechanistic inference system for high-biofilm MRSA lineages.
 
