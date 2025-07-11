@@ -10,7 +10,7 @@ authors:
     email: "motasem.youniss@gmail.com"
     affiliation: "Research in Antimicrobial Resistance and Genomic Surveillance"
 version: "0.1.0"
-date-released: "2024-01-01"  # Replace with actual release date
+date-released: "2025-01-01"
 url: "https://github.com/mojo8787/Genom2"
 repository-code: "https://github.com/mojo8787/Genom2"
 keywords:
@@ -31,5 +31,5 @@ preferred-citation:
   authors:
     - family-names: "Younis"
       given-names: "Almotasem Bellah"
-  year: 2024
+  year: 2025
   url: "https://github.com/mojo8787/Genom2" 
