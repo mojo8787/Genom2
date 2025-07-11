@@ -1,6 +1,10 @@
 # 🧬 MRSA Biofilm Surveillance Dashboard
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15863612.svg)](https://doi.org/10.5281/zenodo.15863612)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/release/python-390/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.45.0+-red.svg)](https://streamlit.io)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--2070--2811-green.svg)](https://orcid.org/0000-0003-2070-2811)
 
 An AI-driven genomic surveillance and mechanistic inference system for high-biofilm MRSA lineages.
 
