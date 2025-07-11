@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "MRSA Biofilm Surveillance Dashboard"
+abstract: "An AI-driven genomic surveillance and mechanistic inference system for high-biofilm MRSA lineages. This dashboard demonstrates key components of an advanced research project focusing on methicillin-resistant Staphylococcus aureus (MRSA) biofilm formation, including phylogenetic visualization, biofilm risk scoring, geographic distribution mapping, therapeutic coverage calculation, and RNA dynamics analysis."
+authors:
+  - family-names: "Younis"
+    given-names: "Almotasem Bellah"
+    orcid: "https://orcid.org/0000-0003-2070-2811"
+    email: "motasem.youniss@gmail.com"
+    affiliation: "Research in Antimicrobial Resistance and Genomic Surveillance"
+version: "0.1.0"
+date-released: "2024-01-01"  # Replace with actual release date
+url: "https://github.com/mojo8787/Genom2"
+repository-code: "https://github.com/mojo8787/Genom2"
+keywords:
+  - "MRSA"
+  - "biofilm"
+  - "genomic surveillance"
+  - "antimicrobial resistance"
+  - "machine learning"
+  - "phylogenetics"
+  - "RNA dynamics"
+  - "therapeutic intervention"
+  - "computational biology"
+  - "streamlit"
+license: "MIT"  # Replace with actual license if different
+preferred-citation:
+  type: software
+  title: "MRSA Biofilm Surveillance Dashboard: AI-Driven Genomic Surveillance and Mechanistic Inference"
+  authors:
+    - family-names: "Younis"
+      given-names: "Almotasem Bellah"
+  year: 2024
+  url: "https://github.com/mojo8787/Genom2" 
